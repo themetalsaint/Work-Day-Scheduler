@@ -26,6 +26,11 @@ body {
     white-space: pre-wrap;
   }
   
+  .hide {
+    display:none;
+
+  }
+  
   .time-block {
     text-align: center;
     border-radius: 15px;
