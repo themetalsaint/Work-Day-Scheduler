@@ -45,7 +45,7 @@ body {
   }
   
   .past {
-    background-color: #d3d3d3;
+    background-color: #0b3001;
     color: white;
   }
   
@@ -55,12 +55,12 @@ body {
   }
   
   .future {
-    background-color: #77dd77;
+    background-color: #abbce9;
     color: white;
   }
   
   .saveBtn {
-    border-left: 1px solid black;
+    border-left: 1px solid darkblue;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
     background-color: #06aed5;
